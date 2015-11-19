@@ -8,3 +8,10 @@ Link: http://www.theodinproject.com/web-development-101/html-css
 
 This is my first time starting a project on GitHub so I'm checking out some features. 
 This is the designated ReadMe... I may try to take notes on this lesson here if that's practical. 
+
+
+Obstacles / Solutions:
+1: Trying to align the nav bar on the right side of the page.
+	My image css from the body section was effecting the image in the nav bar. 
+S: Create class to specify css for nav bar images
+
