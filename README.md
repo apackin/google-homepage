@@ -15,8 +15,15 @@ Starting a project with git :
 1.git init
 2.git config user.name "Ace"
 3.git config user.email "apacking@gmail.com"
-4.git add *
-5.git commit -m "some init msg
+
+# recently changed to the "staging area" (ie. they're "ready to commit")
+4. git add -A
+
+# commits all the "staged" files into your local repository
+5. git commit -m "update README"
+
+# pushes your local repository up to your remote one on Github
+6. git push origin master
 
 
 Lesson Objective:
