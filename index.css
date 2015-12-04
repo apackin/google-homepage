@@ -87,7 +87,17 @@ input[type="submit"] {
 	right: 0;
   	bottom: 0;
   	left: 0;
-	min-height: 1.6em;
+	min-height: 1.9em;
 	background: #f2f2f2;
-	font-size: 1.3em;
+	font-size: large;
+}
+
+#footerLeft {
+	margin-top: .3em;
+	margin-left: .5em;
+}
+
+#footerRight {
+	margin-top: .3em;
+	margin-right: .5em;
 }
